@@ -125,7 +125,7 @@ export default function Home() {
                 <br /><br />
                 jodi kokhono ojante dukkho diye thaki sorry jodi kokhono jene sune dukkho diyechi then khoma korisna!
                 <br /><br />
-                janina ar kono memories ki banabo ki na but ei 23 ta mmory with td23 is what i cans ay my best memories in kolkata till now by farrrr!
+                janina ar kono memories ki banabo ki na but ei 23 ta memory with td23 is what i can say my best memories in kolkata till now by farrrr!
                 <br /><br />
                 <span className="popup-signature">
                   Thanks Ms.dutta and ba-byeeee to my favourite<br />
